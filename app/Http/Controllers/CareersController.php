@@ -1,0 +1,20 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class CareersController extends Controller
+{
+    public function index()
+    {
+        return view('frontend.careers');
+    }
+    public function details()
+    {
+        return view('frontend.career_details');
+    }
+
+
+   
+}
