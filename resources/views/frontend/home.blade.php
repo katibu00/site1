@@ -13,7 +13,7 @@
             <div class="section-heading style-four font-light">
                 <h2 class="section-title">
                     Trusted by more than<br>
-                    14,000 users
+                    100 schools
                 </h2>
             </div>
 
@@ -23,7 +23,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr1.png" alt="astriol logo">
+                                    <img src="/clients/1.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -31,7 +31,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr2.png" alt="astriol logo">
+                                    <img src="/clients/2.jpeg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -39,7 +39,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr3.png" alt="astriol logo">
+                                    <img src="/clients/3.jpeg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -47,7 +47,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr4.png" alt="astriol logo">
+                                    <img src="/clients/4.jpeg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -55,7 +55,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr5.png" alt="astriol logo">
+                                    <img src="/clients/5.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -63,7 +63,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr6.png" alt="astriol logo">
+                                    <img src="/clients/6.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -71,7 +71,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr7.png" alt="astriol logo">
+                                    <img src="/clients/7.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -79,7 +79,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr8.png" alt="astriol logo">
+                                    <img src="/clients/8.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
@@ -87,18 +87,12 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/theme/media/client/mr9.png" alt="astriol logo">
+                                    <img src="/clients/9.png" alt="clients logo">
                                 </a>
                             </div>
                         </li>
 
-                        <li>
-                            <div class="logo-item">
-                                <a href="#">
-                                    <img src="/theme/media/client/mr10.png" alt="astriol logo">
-                                </a>
-                            </div>
-                        </li>
+                      
                     </ul>
                 </div>
 
@@ -106,7 +100,7 @@
 
 
             <div class="btn-container text-center">
-                <a href="#" class="view-btn">View All Partners <i class="ei ei-arrow_right"></i></a>
+                <a href="#" class="view-btn">Try for Free <i class="ei ei-arrow_right"></i></a>
             </div>
         </div>
 
@@ -272,46 +266,51 @@
                         <div class="swiper-container previewSlider">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide color-one" data-image="ei ei-icon_documents_alt"
-                                    data-title="Fee Collection">
+                                    data-title="Early Year Marks">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/1.png" alt="Export Presets">
+                                        <img src="/screenshots/early_year_marks.png" alt="Early Year Marks Entry">
                                     </div>
 
                                 </div>
                                 <div class="swiper-slide color-two" data-image="ei ei-icon_cloud_alt"
                                     data-title="Parent's Dashboard">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/2.png" alt="Cloud Service">
+                                        <img src="/screenshots/parents_dashboard.png" alt="Parent's Dashboard">
                                     </div>
 
                                 </div>
                                 <div class="swiper-slide color-three" data-image="ei ei-icon_profile"
                                     data-title="Gradebook">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/3.png" alt="Pixel Precision">
+                                        <img src="/screenshots/gradebook.png" alt="Gradebook">
                                     </div>
 
                                 </div>
                                 <div class="swiper-slide color-four" data-image="ei ei-icon_grid-2x2"
                                     data-title="Marks Entry">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/4.png" alt="Grid and Guides">
+                                        <img src="/screenshots/marks_entry.png" alt="Marks Entry">
                                     </div>
 
                                 </div>
                                 <div class="swiper-slide color-five" data-image="ei ei-icon_group"
                                     data-title="End of Term Report">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/5.png" alt="Iterate at Speed">
+                                        <img src="/screenshots/report_card.png" alt="End of Term Report">
                                     </div>
 
                                 </div>
                                 <div class="swiper-slide color-six" data-image="ei ei-icon_film"
-                                    data-title="Payment Receipt">
+                                    data-title="CBT Exam">
                                     <div class="slide-image-wrapper">
-                                        <img src="/theme/media/preview-slider/6.png" alt="Vector Editing">
+                                        <img src="/screenshots/cbt_exam_page.png" alt="CBT Exam">
                                     </div>
-
+                                </div>
+                                <div class="swiper-slide color-six" data-image="ei ei-icon_film"
+                                    data-title="Subjects Offering">
+                                    <div class="slide-image-wrapper">
+                                        <img src="/screenshots/subjects_offering.png" alt="Subjects Offering">
+                                    </div>
                                 </div>
                             </div>
 
@@ -354,7 +353,7 @@
 
                     <div class="popup-video-warapper">
                         <div class="intro-video-inner wow fadeInRight">
-                            <img src="/theme/media/about/2.jpg" alt="intro video">
+                            <img src="/images/dashboard.png" alt="intro video">
                             <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="popup-video wow pixFadeUp"
                                 data-wow-delay="0.6s">
                                 <i class="fa fa-play"></i>
@@ -562,15 +561,14 @@
                                     <h5>
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapse00" aria-expanded="false"
-                                            aria-controls="collapse00">What is Cohousing?</button>
+                                            aria-controls="collapse00">How can I request a demo of your software?</button>
                                     </h5>
                                 </div>
                                 <div id="collapse00" class="collapse" aria-labelledby="heading10"
                                     data-parent="#accordionsing">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            To request a demo of our software, simply click on the "Request Demo" button on our website's homepage. Fill in your details, and one of our representatives will get in touch with you to schedule a personalized demo.
                                         </p>
                                     </div>
                                 </div>
@@ -579,16 +577,14 @@
                                 <div class="card-header" id="heading20">
                                     <h5>
                                         <button class="btn btn-link" data-toggle="collapse" data-target="#collapse10"
-                                            aria-expanded="true" aria-controls="collapse10">Can we change the
-                                            design?</button>
+                                            aria-expanded="true" aria-controls="collapse10">Is there a free trial available?</button>
                                     </h5>
                                 </div>
                                 <div id="collapse10" class="collapse show" aria-labelledby="heading20"
                                     data-parent="#accordionsing">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Yes, we offer a One-term free trial for our software. During the trial period, you'll have full access to most features and functionalities.
                                         </p>
                                     </div>
                                 </div>
@@ -598,15 +594,14 @@
                                     <h5>
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapse20" aria-expanded="false" aria-controls="collapse20">
-                                            Ho to invite people with refferel link?</button>
+                                            Can I cancel my subscription at any time?</button>
                                     </h5>
                                 </div>
                                 <div id="collapse20" class="collapse" aria-labelledby="heading30"
                                     data-parent="#accordionsing">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Yes, you can cancel your subscription at any time. There are no long-term commitments, and you'll only be billed for the period you use our service.
                                         </p>
                                     </div>
                                 </div>
@@ -616,15 +611,32 @@
                                     <h5>
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapse30" aria-expanded="false" aria-controls="collapse30">
-                                            Install theme demo contents </button>
+                                            Is my data safe and secure? </button>
                                     </h5>
                                 </div>
                                 <div id="collapse30" class="collapse" aria-labelledby="heading40"
                                     data-parent="#accordionsing">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Absolutely! We take data security seriously. Our platform is hosted on secure servers, and we use encryption to protect your data.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="heading40">
+                                    <h5>
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapse30" aria-expanded="false" aria-controls="collapse30">
+                                            Can I customize the appearance and branding of your product/service for my school/organization?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapse30" class="collapse" aria-labelledby="heading40"
+                                    data-parent="#accordionsing">
+                                    <div class="card-body">
+                                        <p>
+                                            Yes, we offer customization options, allowing you to add your school/organization's logo and branding to our software.
                                         </p>
                                     </div>
                                 </div>
@@ -640,16 +652,14 @@
                                 <div class="card-header" id="heading101">
                                     <h5>
                                         <button class="btn btn-link" data-toggle="collapse" data-target="#collapse001"
-                                            aria-expanded="false" aria-controls="collapse001">How to contact with Customer
-                                            Service?</button>
+                                            aria-expanded="false" aria-controls="collapse001">Do you offer customer support?</button>
                                     </h5>
                                 </div>
                                 <div id="collapse001" class="collapse" aria-labelledby="heading101"
                                     data-parent="#accordionsing-2">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Yes, we provide dedicated customer support via email and live chat during business hours. Our support team is always ready to assist you.
                                         </p>
                                     </div>
                                 </div>
@@ -658,7 +668,7 @@
                                 <div class="card-header" id="heading201">
                                     <h5>
                                         <button class="btn btn-link" data-toggle="collapse" data-target="#collapse101"
-                                            aria-expanded="true" aria-controls="collapse101">How delete my account?
+                                            aria-expanded="true" aria-controls="collapse101">How long does it take to set up our account?
                                         </button>
                                     </h5>
                                 </div>
@@ -666,8 +676,7 @@
                                     data-parent="#accordionsing-2">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Setting up your account is quick and easy. It usually takes just a few minutes, and there are templates to download to upload your students, staffs and parents. 
                                         </p>
                                     </div>
                                 </div>
@@ -677,15 +686,14 @@
                                     <h5>
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapse201" aria-expanded="false"
-                                            aria-controls="collapse201">Where is the edit optioon on dashboard? </button>
+                                            aria-controls="collapse201">What happens after the free trial ends?</button>
                                     </h5>
                                 </div>
                                 <div id="collapse201" class="collapse" aria-labelledby="heading301"
                                     data-parent="#accordionsing-2">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            At the end of the free trial, your account will automatically be switched to the plan you selected during signup. You'll be billed accordingly.
                                         </p>
                                     </div>
                                 </div>
@@ -695,15 +703,66 @@
                                     <h5>
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapse311" aria-expanded="false"
-                                            aria-controls="collapse311">Is there any custome pricing system?</button>
+                                            aria-controls="collapse311">Is your software compatible with mobile devices?
+                                        </button>
                                     </h5>
                                 </div>
                                 <div id="collapse311" class="collapse" aria-labelledby="heading411"
                                     data-parent="#accordionsing-2">
                                     <div class="card-body">
                                         <p>
-                                            The little rotter gormless haggle up the duff the wireless the BBC tosser golly
-                                            gosh, bubble and squeak bugger all mate arse gutted mate crikey bobby.!
+                                            Yes, our software is mobile-responsive and works seamlessly on various devices, including smartphones and tablets.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="heading411">
+                                    <h5>
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapse311" aria-expanded="false"
+                                            aria-controls="collapse311">Can I access my data and reports from multiple devices?</button>
+                                    </h5>
+                                </div>
+                                <div id="collapse311" class="collapse" aria-labelledby="heading411"
+                                    data-parent="#accordionsing-2">
+                                    <div class="card-body">
+                                        <p>
+                                            Yes, you can access your data and reports from any device with an internet connection. Our platform is cloud-based for easy accessibility.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="heading411">
+                                    <h5>
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapse311" aria-expanded="false"
+                                            aria-controls="collapse311">How often do you release updates and add new features?</button>
+                                    </h5>
+                                </div>
+                                <div id="collapse311" class="collapse" aria-labelledby="heading411"
+                                    data-parent="#accordionsing-2">
+                                    <div class="card-body">
+                                        <p>
+                                            We regularly release updates and add new features to improve our software based on user feedback and industry trends.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="heading411">
+                                    <h5>
+                                        <button class="btn btn-link collapsed" data-toggle="collapse"
+                                            data-target="#collapse311" aria-expanded="false"
+                                            aria-controls="collapse311">Are there any limitations on the number of users or students in our account?</button>
+                                    </h5>
+                                </div>
+                                <div id="collapse311" class="collapse" aria-labelledby="heading411"
+                                    data-parent="#accordionsing-2">
+                                    <div class="card-body">
+                                        <p>
+                                            Our subscription plans have different user/students limits. You can choose a plan that suits the number of users you need.
                                         </p>
                                     </div>
                                 </div>
@@ -747,16 +806,15 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="action-content-wrapper">
-                                <h2 class="title">
-                                    Get started with
-                                    Astriol Template.
-                                </h2>
+                                <h4 class="title" style="font-size: 28px;">
+                                    "Beyond Boundaries: How to Attract and Retain Students in Your School"
+                                </h4>
 
                                 <p class="description">
-                                    Daft well fanny around lavatory morish spend a penny gutted mate.
+                                    Unlock the Secrets to Sustaining School Growth and Success
                                 </p>
 
-                                <a href="contact.html" class="gp-btn color-two btn-light btn-circle">Get Started</a>
+                                <a href="contact.html" class="gp-btn color-two btn-light btn-circle">Download</a>
                             </div>
 
                         </div>
@@ -778,10 +836,8 @@
                     </div>
 
                 </div>
-
                 <span class="circle-bottom"></span>
             </div>
-
 
         </div>
 

@@ -6,8 +6,8 @@
 
                 <div class="site-logo">
                     <a href="#" class="logo">
-                        {{-- <img src="/theme/img/logo-saas.png" alt="site logo" class="main-logo">
-                        <img src="/theme/img/logo-saas.png" alt="site logo" class="logo-sticky"> --}}
+                        <img src="/logos/v1.png" width="70%" alt="site logo" class="main-logo">
+                        <img src="/logos/v5.png" width="70%" alt="site logo" class="logo-sticky">
                     </a>
                 </div>
 
@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="nav-right">
-                    <a href="#" class="nav-btn gp-btn color-two btn-circle">Try for Free</a>
+                    <a href="#" class="nav-btn gp-btn color-two btn-circle py-2">Try</a>
 
                     <div class="astriol-burger-menu" id="mobile-menu-open">
                         <span class="bar-one"></span>
