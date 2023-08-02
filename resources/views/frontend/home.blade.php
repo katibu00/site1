@@ -100,7 +100,7 @@
 
 
             <div class="btn-container text-center">
-                <a href="#" class="view-btn">Try for Free <i class="ei ei-arrow_right"></i></a>
+                <a href="{{ route('try') }}" class="view-btn">Try for Free <i class="ei ei-arrow_right"></i></a>
             </div>
         </div>
 

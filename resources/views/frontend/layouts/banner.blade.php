@@ -7,7 +7,7 @@
                 <p class="description wow fadeInUp" data-wow-delay="0.3s">Empower staff, engage parents, and drive more academic success.</p>
 
                 <div class="banner-button-container">
-                    <a href="#" class="gp-btn banner-btn btn-circle color-two wow flipInX" data-wow-delay="0.5s">Try for Free</a>
+                    <a href="{{ route('try') }}" class="gp-btn banner-btn btn-circle color-two wow flipInX" data-wow-delay="0.5s">Register your School</a>
                     <a href="{{ route('request-demo') }}" class="gp-btn banner-btn btn-circle color-two btn-light ml-3 wow flipInX" data-wow-delay="0.5s">Request Demo</a>
                 </div>
                 <!-- /.banner-button-container -->

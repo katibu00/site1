@@ -12,7 +12,7 @@
 
             <div class="action-button">
                 <a href="{{ route('request-demo') }}" class="gp-btn color-three wow flipInX" data-wow-delay="0.3s">Request Demo</a>
-                <a href="#" class="gp-btn color-three btn-outline wow flipInX" data-wow-delay="0.3s">Try for Free</a>
+                <a href="{{ route('try') }}" class="gp-btn color-three btn-outline wow flipInX" data-wow-delay="0.3s">Try for Free</a>
             </div>
             <!-- /.action-button -->
         </div>

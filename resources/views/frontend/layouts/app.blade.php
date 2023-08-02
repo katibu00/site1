@@ -8,10 +8,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>@yield('pageTitle') - IntelPS</title>
 
-	<link rel="apple-touch-icon" sizes="180x180" href="/theme/img/favicon/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/theme/img/favicon/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/theme/img/favicon/favicon-16x16.png">
-	<link rel="mask-icon" href="/theme/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="icon" href="/logos/fav2.ico" type="image/x-icon">
+
+	{{-- <link rel="apple-touch-icon" type="image/png" href="/logos/fav1.ico">
+	<link rel="icon" type="image/png" sizes="32x32" href="/logos/fav2.ico">
+	<link rel="icon" type="image/png" sizes="16x16" href="/logos/fav2.ico"> --}}
+	<link rel="mask-icon" href="/logos/fav2.ico" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
 	@yield('css')
@@ -49,7 +51,10 @@
 				<span data-text="T">T</span>
 				<span data-text="E">E</span>
 				<span data-text="L">L</span>
-				<span data-text="P">P</span>
+				<span data-text="L">L</span>
+				<span data-text="I">I</span>
+				<span data-text="S">S</span>
+				<span data-text="A">A</span>
 				<span data-text="S">S</span>
 			</div>
 		</div>

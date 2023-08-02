@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="nav-right">
-                    <a href="#" class="nav-btn gp-btn color-two btn-circle py-2">Try</a>
+                    <a href="{{ route('try') }}" class="nav-btn gp-btn color-two btn-circle py-2">Try Free</a>
 
                     <div class="astriol-burger-menu" id="mobile-menu-open">
                         <span class="bar-one"></span>

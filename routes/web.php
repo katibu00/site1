@@ -37,6 +37,10 @@ Route::get('/features', function(){
     return view('frontend.features');
 })->name('features');
 
+Route::get('/try-for-free', function(){
+    return view('frontend.try');
+})->name('try');
+
 Route::get('/thank_you', function () {
     return view('frontend.thank_you');
 })->name('thank_you');
