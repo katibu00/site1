@@ -13,7 +13,7 @@
             </div>
 
             <div class="banner-promo-mockup">
-                <img src="/images/dashboard.png" class="wow fadeInUp" data-wow-delay="0.7s" alt="IntelPS">
+                <img src="/images/dashboard1.png" class="wow fadeInUp" data-wow-delay="0.7s" alt="IntelPS">
             </div>
         </div>
     </div>

@@ -71,7 +71,7 @@
                         <li>
                             <div class="logo-item">
                                 <a href="#">
-                                    <img src="/clients/7.jpg" alt="clients logo">
+                                    <img src="/clients/77.jpg" alt="clients logo">
                                 </a>
                             </div>
                         </li>
