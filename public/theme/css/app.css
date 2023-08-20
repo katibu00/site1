@@ -15049,10 +15049,10 @@ Banner Main
 	font-weight: 600;
 	margin-bottom: 20px;
 }
-.blog-slider-post .blog-content h3 a {
+.blog-slider-post .blog-content h5 a {
 	color: #051441;
 }
-.blog-slider-post .blog-content h3 a:hover {
+.blog-slider-post .blog-content h5 a:hover {
 	color: #f8b137;
 }
 .blog-slider-post .blog-content p {

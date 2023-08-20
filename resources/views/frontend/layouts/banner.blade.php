@@ -10,17 +10,13 @@
                     <a href="{{ route('try') }}" class="gp-btn banner-btn btn-circle color-two wow flipInX" data-wow-delay="0.5s">Register your School</a>
                     <a href="{{ route('request-demo') }}" class="gp-btn banner-btn btn-circle color-two btn-light ml-3 wow flipInX" data-wow-delay="0.5s">Request Demo</a>
                 </div>
-                <!-- /.banner-button-container -->
             </div>
-            <!-- /.banner-content -->
 
             <div class="banner-promo-mockup">
                 <img src="/images/dashboard.png" class="wow fadeInUp" data-wow-delay="0.7s" alt="IntelPS">
             </div>
         </div>
-        <!-- /.banner-main-content-wrapper -->
     </div>
-    <!-- /.container -->
 
     <div class="banner-main-animate">
         <ul class="animate-items">

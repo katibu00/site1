@@ -377,17 +377,16 @@
             <div class="swiper-container wow fadeInRight testimonia-single" id="testimonial" data-effect="fade"
                 data-speed="1000" data-autoplay="5000" data-space="40">
                 <div class="swiper-wrapper">
+                    
                     <div class="swiper-slide">
                         <div class="testimonial">
                             <div class="user-avatar">
-                                <img src="/theme/media/testimonial/4.jpg" alt="astriol user-avatar">
+                                <img src="/authors/ibrahim.jpeg" alt="user-avatar">
                             </div>
                             <!-- /.user-avatar -->
                             <div class="testi-content">
                                 <p>
-                                    Show off show off pick your nose and blow off up the duff chimney pot Why chap lost the
-                                    plot, buggered wellies blatant bender well blimey, what a load of rubbish bodge Richard
-                                    tosser gutted mate chinwag.
+                                    IntelPS has transformed our school management processes. From attendance tracking to report card generation, everything is now streamlined and efficient. The real game-changer is the powerful analytics dashboard that provides us with insights to make informed decisions. Our school has never been more organized and data-driven
                                 </p>
                             </div>
 
@@ -399,8 +398,8 @@
                                     <li><i class="ei ei-icon_star"></i></li>
                                     <li><i class="ei ei-icon_star"></i></li>
                                 </ul>
-                                <h4 class="user-name">Lurch Schpellchek</h4>
-                                <span class="designation">Web Designer</span>
+                                <h4 class="user-name">Ishaq Idris Omale</h4>
+                                <span class="designation">School Administrator</span>
                             </div>
                             <!-- /.testi-content -->
                         </div>
@@ -410,14 +409,12 @@
                     <div class="swiper-slide">
                         <div class="testimonial">
                             <div class="user-avatar">
-                                <img src="/theme/media/testimonial/01.jpg" alt="astriol user-avatar">
+                                <img src="/authors/amina.jpeg" alt="user-avatar">
                             </div>
                             <!-- /.user-avatar -->
                             <div class="testi-content">
                                 <p>
-                                    Show off show off pick your nose and blow off up the duff chimney pot Why chap lost the
-                                    plot, buggered wellies blatant bender well blimey, what a load of rubbish bodge Richard
-                                    tosser gutted mate chinwag.
+                                    As a teacher, IntelPS has been a game-changer in my classroom. The easy-to-use interface helps me manage grades, assessments, and communication with parents effortlessly. The virtual classroom integration has enabled seamless online learning, ensuring that education continues uninterrupted even during challenging times.
                                 </p>
                             </div>
 
@@ -429,8 +426,8 @@
                                     <li><i class="ei ei-icon_star"></i></li>
                                     <li><i class="ei ei-icon_star"></i></li>
                                 </ul>
-                                <h4 class="user-name">Hanson Deck</h4>
-                                <span class="designation">UI/UX designer</span>
+                                <h4 class="user-name">Mrs Amina Adeleke</h4>
+                                <span class="designation">Teacher</span>
                             </div>
                             <!-- /.testi-content -->
                         </div>
@@ -440,14 +437,12 @@
                     <div class="swiper-slide">
                         <div class="testimonial">
                             <div class="user-avatar">
-                                <img src="/theme/media/testimonial/3.jpg" alt="astriol user-avatar">
+                                <img src="/theme/media/testimonial/3.jpg" alt="user-avatar">
                             </div>
                             <!-- /.user-avatar -->
                             <div class="testi-content">
                                 <p>
-                                    Show off show off pick your nose and blow off up the duff chimney pot Why chap lost the
-                                    plot, buggered wellies blatant bender well blimey, what a load of rubbish bodge Richard
-                                    tosser gutted mate chinwag.
+                                    IntelPS has bridged the gap between school and home. With the parent communication feature, I'm always in the loop about my child's progress, assignments, and school events. The transparency in fee management has given me confidence in the financial integrity of the school. It's a holistic solution that enhances the entire educational experience.
                                 </p>
                             </div>
 
@@ -459,13 +454,41 @@
                                     <li><i class="ei ei-icon_star"></i></li>
                                     <li><i class="ei ei-icon_star"></i></li>
                                 </ul>
-                                <h4 class="user-name">Mominul Islam</h4>
-                                <span class="designation">Full-Stack Developer</span>
+                                <h4 class="user-name">Mr. Adebayo Adeyemi</h4>
+                                <span class="designation">Parent</span>
                             </div>
                             <!-- /.testi-content -->
                         </div>
                         <!-- /.testimonial -->
                     </div>
+                    <div class="swiper-slide">
+                        <div class="testimonial">
+                            <div class="user-avatar">
+                                <img src="/authors/proprietor.jpeg" alt="user-avatar">
+                            </div>
+                            <!-- /.user-avatar -->
+                            <div class="testi-content">
+                                <p>
+                                    Choosing IntelPS was the best decision for our school's growth. The comprehensive suite of modules has simplified staff management, finance tracking, and student progress monitoring. The integration capabilities and excellent support have made the transition smooth, enabling us to focus on educational excellence.
+                                </p>
+                            </div>
+
+                            <div class="info">
+                                <ul class="ratings">
+                                    <li><i class="ei ei-icon_star"></i></li>
+                                    <li><i class="ei ei-icon_star"></i></li>
+                                    <li><i class="ei ei-icon_star"></i></li>
+                                    <li><i class="ei ei-icon_star"></i></li>
+                                    <li><i class="ei ei-icon_star"></i></li>
+                                </ul>
+                                <h4 class="user-name">Mrs. Olayinka Oyedeji</h4>
+                                <span class="designation">School Proprietor</span>
+                            </div>
+                            <!-- /.testi-content -->
+                        </div>
+                        <!-- /.testimonial -->
+                    </div>
+
                 </div>
 
                 <div class="nav-control">
@@ -517,9 +540,9 @@
                                                     href="{{ route('blog.show', $blog->slug) }}">{{ $blog->created_at->format('F d, Y') }}</a>
                                             </li>
                                         </ul>
-                                        <h3>
+                                        <h5>
                                             <a href="{{ route('blog.show', $blog->slug) }}">{{ $blog->title }}</a>
-                                        </h3>
+                                        </h5>
                                         <p>
                                             {!! \Illuminate\Support\Str::limit($blog->content, 100, '...') !!}
                                         </p>
@@ -780,7 +803,7 @@
     </section>
 
 
-    <section class="call-to-action-creative">
+    {{-- <section class="call-to-action-creative">
         <div class="container pr">
 
             <div class="call-to-action-wrapper">
@@ -841,6 +864,6 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
 @endsection
